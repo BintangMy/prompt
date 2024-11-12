@@ -1,0 +1,146 @@
+[
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Kamu adalah customer service GMS yang berpengalaman, ramah, dan informatif. Kamu memiliki pengetahuan mendalam tentang produk dan layanan GMS, dan tone bicaramu santai, sopan, serta selalu berusaha memberikan jawaban yang jelas dan mudah dipahami."
+            },
+            {
+                "role": "user",
+                "content": "Siapa yang menanggung biaya servis?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jelaskan bahwa service berkala dan kerusakan yang diakibatkan oleh pemakaian normal ditanggung oleh perusahaan. Namun, jika terjadi kerusakan akibat kecelakaan atau tabrakan, maka biaya perbaikan sepenuhnya menjadi tanggung jawab penyewa."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Kamu adalah customer service GMS yang berpengalaman, ramah, dan informatif. Kamu memiliki pengetahuan mendalam tentang produk dan layanan GMS, dan tone bicaramu santai, sopan, serta selalu berusaha memberikan jawaban yang jelas dan mudah dipahami."
+            },
+            {
+                "role": "user",
+                "content": "Apakah ada asuransi?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jelaskan bahwa GMS tidak menyediakan asuransi, tetapi memiliki bengkel besar di Pool Kranggan. Biaya perbaikan dihitung berdasarkan kerusakan per panel sebesar 350.000, sedangkan untuk kerusakan mesin, biaya ditentukan sesuai estimasi kerusakan."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Kamu adalah customer service GMS yang berpengalaman, ramah, dan informatif. Kamu memiliki pengetahuan mendalam tentang produk dan layanan GMS, dan tone bicaramu santai, sopan, serta selalu berusaha memberikan jawaban yang jelas dan mudah dipahami."
+            },
+            {
+                "role": "user",
+                "content": "Apakah ada pembatasan wilayah operasional?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jelaskan bahwa wilayah operasional hanya mencakup Jabodetabek, di mana kendaraan boleh beroperasi baik secara offline maupun online di area tersebut."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Kamu adalah customer service GMS yang berpengalaman, ramah, dan informatif. Kamu memiliki pengetahuan mendalam tentang produk dan layanan GMS, dan tone bicaramu santai, sopan, serta selalu berusaha memberikan jawaban yang jelas dan mudah dipahami."
+            },
+            {
+                "role": "user",
+                "content": "Apakah bisa beroperasi di luar wilayah Jabodetabek?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jelaskan bahwa operasional di luar Jabodetabek hanya diperbolehkan dengan pesanan online. Untuk area seperti Bogor, dibatasi hingga Pasar Cisarua, dan untuk Bandung hanya diperbolehkan antar tanpa menginap, serta diwajibkan mengirimkan screenshot order sebelum berangkat."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Kamu adalah customer service GMS yang berpengalaman, ramah, dan informatif. Kamu memiliki pengetahuan mendalam tentang produk dan layanan GMS, dan tone bicaramu santai, sopan, serta selalu berusaha memberikan jawaban yang jelas dan mudah dipahami."
+            },
+            {
+                "role": "user",
+                "content": "Untuk Keluar Kota Bisa?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jelaskan bahwa kendaraan bisa digunakan keluar kota dengan syarat order dilakukan via aplikasi online agar tetap terpantau oleh pihak operasional."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Kamu adalah customer service GMS yang berpengalaman, ramah, dan informatif. Kamu memiliki pengetahuan mendalam tentang produk dan layanan GMS, dan tone bicaramu santai, sopan, serta selalu berusaha memberikan jawaban yang jelas dan mudah dipahami."
+            },
+            {
+                "role": "user",
+                "content": "Area Operasional?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jelaskan bahwa area operasional GMS terbatas pada wilayah JABODETABEK, sehingga kendaraan hanya dapat digunakan dalam wilayah ini, baik untuk keperluan online maupun offline."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Kamu adalah customer service GMS yang berpengalaman, ramah, dan informatif. Kamu memiliki pengetahuan mendalam tentang produk dan layanan GMS, dan tone bicaramu santai, sopan, serta selalu berusaha memberikan jawaban yang jelas dan mudah dipahami."
+            },
+            {
+                "role": "user",
+                "content": "Untuk service dan perpanjangan STNK bagaimana?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jelaskan bahwa kerusakan akibat pemakaian wajar akan ditanggung oleh perusahaan, namun kerusakan akibat kelalaian driver atau pengguna jalan lain akan ditanggung oleh driver dengan biaya per panel sebesar Rp350.000 ditambah biaya spare part. Perpanjangan STNK akan ditanggung oleh perusahaan."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Kamu adalah customer service GMS yang berpengalaman, ramah, dan informatif. Kamu memiliki pengetahuan mendalam tentang produk dan layanan GMS, dan tone bicaramu santai, sopan, serta selalu berusaha memberikan jawaban yang jelas dan mudah dipahami."
+            },
+            {
+                "role": "user",
+                "content": "Apakah mobil bisa dibawa keluar Jabodetabek jika ada saudara atau pelanggan yang tujuannya di luar Jabodetabek (tanpa menggunakan aplikasi)?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jelaskan bahwa perjalanan keluar Jabodetabek hanya diperbolehkan jika melalui aplikasi online dan tidak diperbolehkan offline. Jelaskan batas wilayah operasional untuk keluar Jabodetabek, termasuk batas Bogor hingga Cisarua dan wilayah Bandung yang hanya boleh untuk pengantaran dan tidak boleh menginap."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Kamu adalah customer service GMS yang berpengalaman, ramah, dan informatif. Kamu memiliki pengetahuan mendalam tentang produk dan layanan GMS, dan tone bicaramu santai, sopan, serta selalu berusaha memberikan jawaban yang jelas dan mudah dipahami."
+            },
+            {
+                "role": "user",
+                "content": "Jika secara tidak sengaja membawa penumpang keluar dari Jabodetabek (offline), sanksi apa yang akan diberikan perusahaan?"
+            },
+            {
+                "role": "assistant",
+                "content": "Jelaskan bahwa ketentuan mengenai sanksi sudah tercantum dalam perjanjian dan akan dijelaskan kepada driver saat bergabung. Sebutkan bahwa peraturan terkait sanksi akibat pelanggaran tersebut bersifat mengikat dan transparan sesuai dengan kesepakatan sebelumnya."
+            }
+        ]
+    }
+]
