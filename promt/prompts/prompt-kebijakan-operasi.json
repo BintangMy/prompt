@@ -1,0 +1,186 @@
+[
+    {
+        "id": "kebijakan_operasi1",
+        "text": "Service berkala dan kerusakan yang diakibatkan pemakaian ditanggung oleh perusahaan, kecuali rusak akibat laka/tabrak menabrak, kerusakan sepenuhnya tanggung jawab penyewa.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "biaya servis"
+        }
+      },
+      {
+        "id": "kebijakan_operasi3",
+        "text": "Tidak ada asuransi karena GMS mempunyai bengkel besar di Pool Kranggan, dengan perhitungan perpanel, biaya perpanel 350.000, jika kerusakan sampai kemesin di hitung sesuai estimasi kerusakan.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "asuransi"
+        }
+      },
+      {
+        "id": "kebijakan_operasi4",
+        "text": "Ya, wilayah operasional meliputi Jabodetabek saja dan operasional jabodetabek boleh offline boleh online.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "pembatasan wilayah operasional"
+        }
+      },
+      {
+        "id": "kebijakan_operasi5",
+        "text": "Jika keluar jabodetabek wajib order online tidak boleh offline dan batas Bogor sampai pasar Cisarua, keluar jabodetabek hanya sampai wilayah Bandung hanya mengantar tidak menginap, sebelum berangkat wajib kirimkan screenshot ordernya ke operasional.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "operasi di luar wilayah Jabodetabek"
+        }
+      },
+      {
+        "id": "kebijakan_operasi6",
+        "text": "Bisa Pak, Dengan Catatan Orderannya Via Aplikasi Online.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "keluar kota"
+        }
+      },
+      {
+        "id": "kebijakan_operasi7",
+        "text": "JABODETABEK.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "area operasional"
+        }
+      },
+      {
+        "id": "kebijakan_operasi8",
+        "text": "Kerusakan akibat pemakaian wajar dan sudah ada dalam data kami akan ditanggung oleh perusahaan. Namun, jika kerusakan akibat kelalaian driver atau pengguna jalan lain, biaya sebesar Rp350.000 per panel ditambah biaya spare part akan ditanggung oleh driver. Untuk STNK, kami yang menanggungnya.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "service dan perpanjangan STNK"
+        }
+      },
+      {
+        "id": "kebijakan_operasi9",
+        "text": "Penjelasan aturan operasional untuk perjalanan keluar Jabodetabek akan diberikan.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "mobil keluar Jabodetabek"
+        }
+      },
+      {
+        "id": "kebijakan_operasi10",
+        "text": "Ketentuan mengenai sanksi ada dalam perjanjian dan akan dijelaskan saat bergabung.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "sanksi perjalanan keluar Jabodetabek"
+        }
+      },
+      {
+        "id": "kebijakan_operasi11",
+        "text": "Ya, wilayah operasional meliputi Jabodetabek saja dan operasional jabodetabek boleh offline boleh online.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "area operasional"
+        }
+      },
+      {
+        "id": "kebijakan_operasi12",
+        "text": "Service berkala dan kerusakan yang diakibatkan pemakaian ditanggung oleh perusahaan, kecuali rusak akibat laka/tabrakan yang sepenuhnya menjadi tanggung jawab penyewa.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "biaya perawatan kendaraan"
+        }
+      },
+      {
+        "id": "kebijakan_operasi13",
+        "text": "Tidak ada asuransi karena GMS mempunyai bengkel besar di Pool Kranggan, dengan perhitungan per panel, biaya per panel 350.000, jika kerusakan sampai ke mesin dihitung sesuai estimasi kerusakan.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "perlindungan asuransi"
+        }
+      },
+      {
+        "id": "kebijakan_operasi14",
+        "text": "Jika keluar Jabodetabek wajib order online tidak boleh offline dan batas Bogor sampai pasar Cisarua, keluar Jabodetabek hanya sampai wilayah Bandung hanya mengantar tidak menginap, sebelum berangkat wajib kirimkan screenshot ordernya ke operasional.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "penggunaan mobil keluar kota"
+        }
+      },
+      {
+        "id": "kebijakan_operasi15",
+        "text": "Kerusakan akibat pemakaian wajar dan sudah ada dalam data kami akan ditanggung oleh perusahaan. Namun, jika kerusakan akibat kelalaian driver atau pengguna jalan lain, biaya sebesar Rp350.000 per panel ditambah biaya spare part akan ditanggung oleh driver. Untuk STNK, kami yang menanggungnya.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "perpanjangan STNK"
+        }
+      },
+      {
+        "id": "kebijakan_operasi16",
+        "text": "Jika terjadi kendala di jalan, ada layanan Emergency Call yang siap memberikan bantuan kapan pun.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "layanan pelanggan darurat"
+        }
+      },
+      {
+        "id": "kebijakan_operasi17",
+        "text": "Mitra dikenakan biaya klaim 350rb/panel.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "klaim asuransi"
+        }
+      },
+      {
+        "id": "kebijakan_operasi18",
+        "text": "Diizinkan selama penggunaan masih di area operasional (Jabodetabek).",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "penggunaan kendaraan untuk kebutuhan pribadi"
+        }
+      },
+      {
+        "id": "kebijakan_operasi19",
+        "text": "Diperbolehkan selama masih di area operasional dan muatan sesuai kapasitas kendaraan.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "penggunaan kendaraan untuk kebutuhan komersial"
+        }
+      },
+      {
+        "id": "kebijakan_operasi20",
+        "text": "Mitra diwajibkan datang setiap bulan untuk perpanjang kontrak.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "proses perpanjangan kontrak sewa"
+        }
+      },
+      {
+        "id": "kebijakan_operasi21",
+        "text": "Bisa akan diberikan unit pengganti sementara.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "kendaraan pengganti"
+        }
+      },
+      {
+        "id": "kebijakan_operasi22",
+        "text": "Jika kendaraan hilang atau dicuri, kerugian tersebut akan ditanggung oleh mitra penyewa. GMS dapat membantu proses pelaporan kejadian tersebut ke pihak berwenang, namun penyewa tetap bertanggung jawab atas kerugian yang timbul. Penting bagi mitra untuk segera melaporkan kejadian ini agar proses pelaporan dapat dilakukan dengan cepat dan sesuai prosedur.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "kendaraan hilang atau dicuri"
+        }
+      },
+      {
+        "id": "kebijakan_operasi23",
+        "text": "Jika mobil yang disewa mengalami kerusakan serius yang memerlukan perbaikan lama, kamu dapat datang ke Pool GMS terdekat, dan GMS akan memberikan unit pengganti sementara agar kamu tetap bisa beroperasi tanpa kendala.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "kerusakan serius dan kendaraan pengganti"
+        }
+      },
+      {
+        "id": "kebijakan_operasi24",
+        "text": "Jika kendaraan yang kamu sewa ditilang atau ditahan oleh pihak berwenang, kamu perlu datang ke Pool GMS untuk proses pembayaran tilang dan penyelesaian administrasi terkait. GMS akan membantu proses tersebut agar kendaraan dapat segera kembali beroperasi.",
+        "metadata": {
+          "category": "kebijakan operasi",
+          "entity": "tilang atau kendaraan ditahan"
+        }
+      }     
+]

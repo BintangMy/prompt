@@ -1,0 +1,83 @@
+[
+    {
+      "id": "tentang1",
+      "text": "GMS adalah perusahaan asal Jepang yang fokus pada penyediaan layanan rental kendaraan serta solusi teknologi Internet of Things (IoT). Kami menyediakan kendaraan untuk berbagai keperluan, termasuk bagi driver online yang bekerja dengan platform seperti Grab dan Gojek. Selain itu, GMS juga mengembangkan layanan IoT untuk memudahkan operasional kendaraan dan mendukung kebutuhan teknologi yang lebih canggih dalam manajemen kendaraan. GMS berkomitmen untuk memberikan solusi yang terintegrasi antara teknologi dan transportasi.",
+      "metadata": {
+        "category": "tentang",
+        "entity": "GMS"
+      }
+    },
+    {
+      "id": "tentang2",
+      "text": "Mobis adalah produk dari GMS yang menyediakan layanan penyewaan kendaraan untuk driver online. Khususnya bagi mereka yang bekerja dengan platform ride-hailing seperti Grab, Gojek, dan lainnya. Dengan Mobis, driver dapat menyewa kendaraan dengan sistem sewa mingguan, sehingga mereka bisa bekerja tanpa perlu membeli mobil. Jadi, Mobis memudahkan driver untuk mendapatkan kendaraan yang dibutuhkan untuk bekerja tanpa beban membeli atau merawat mobil sendiri.",
+      "metadata": {
+        "category": "tentang",
+        "entity": "Mobis"
+      }
+    },
+    {
+      "id": "tentang3",
+      "text": "Mobis adalah produk dari GMS yang menyediakan layanan penyewaan kendaraan untuk driver online. Khususnya bagi mereka yang bekerja dengan platform ride-hailing seperti Grab, Gojek, dan lainnya. Dengan Mobis, driver dapat menyewa kendaraan dengan sistem sewa mingguan, sehingga mereka bisa bekerja tanpa perlu membeli mobil. Jadi, Mobis memudahkan driver untuk mendapatkan kendaraan yang dibutuhkan untuk bekerja tanpa beban membeli atau merawat mobil sendiri.",
+      "metadata": {
+        "category": "tentang",
+        "entity": "apa itu mobis"
+      }
+    },
+    {
+      "id": "tentang4",
+      "text": "Tujuan Mobis adalah memudahkan driver taksi online yang tidak memiliki kendaraan sendiri untuk tetap dapat bekerja. Dengan menyediakan layanan rental kendaraan berbasis IoT, Mobis memastikan driver memiliki akses mudah ke kendaraan berkualitas dengan biaya yang terjangkau.",
+      "metadata": {
+        "category": "tentang",
+        "entity": "tujuan mobis"
+      }
+    },
+    {
+      "id": "tentang5",
+      "text": "Mobis adalah salah satu layanan yang dikembangkan oleh GMS di Indonesia. GMS sebagai induk perusahaan menyediakan teknologi dan infrastruktur, sedangkan Mobis menawarkan layanan penyewaan kendaraan untuk mendukung driver taksi online dengan teknologi yang aman dan efisien.",
+      "metadata": {
+        "category": "tentang",
+        "entity": "hubungan Mobis dan GMS"
+      }
+    },
+    {
+      "id": "tentang6",
+      "text": "Mobis memiliki bengkel sendiri untuk memastikan kendaraan yang disewakan selalu dalam kondisi optimal. Dengan bengkel internal, Mobis dapat memberikan perawatan berkala dan perbaikan tanpa perlu asuransi tambahan, sehingga biaya operasional tetap terkendali dan layanan tetap berkualitas tinggi.",
+      "metadata": {
+        "category": "tentang",
+        "entity": "bengkel Mobis"
+      }
+    },
+    {
+      "id": "tentang7",
+      "text": "Untuk informasi lebih lanjut, silakan kunjungi https://global-mobility-service.co.id.",
+      "metadata": {
+        "category": "tentang",
+        "entity": "Informasi GMS"
+      }
+    },
+    {
+      "id": "tentang8",
+      "text": "Program rental Mobis adalah hasil kerja sama antara PT GMS Indonesia dan PT Mitra Unggul Indotama. Program ini dirancang untuk driver online yang membutuhkan mobil untuk bekerja.",
+      "metadata": {
+        "category": "tentang",
+        "entity": "rental Mobis"
+      }
+    },
+    {
+      "id": "tentang9",
+      "text": "Program Rental Mobis\nMobis merupakan program rental hasil kerja sama PT GMS Indonesia dan PT Mitra Unggul Indotama bagi driver online yang membutuhkan mobil untuk bekerja.\n\nSetoran\nSetoran Mingguan Terjangkau\nSetoran mingguannya yang terjangkau yaitu mulai dari Rp1,230,000 menjadi Rp 850,000,-/minggu dan pendaftaran Rp 250,000\n*Harga sewa sama kecuali jika ada S&K berlaku\n\n24 Jam\nLepas Kunci 24 Jam\nDriver tidak perlu mengembalikan mobil rental ke Pool. Mobil dapat dibawa pulang oleh driver online\n\nService\nTeknisi Cepat Tanggap\nTeknisi Mobis akan selalu siap sedia membantu driver online\n\nBebas Biaya\nBebas Biaya Servis Rutin\nDriver dapat membawa mobil rental mobis ke bengkel resmi Mobis tanpa biaya servis\n\nPengganti\nTersedia Mobil Pengganti\nTersedia mobil pengganti bagi driver online\n\nSetoran\nDapatkan Komisi Referral\nUndang teman-teman Anda untuk bergabung dan dapatkan komisi Rp100,000\n*s&k berlaku",
+      "metadata": {
+        "category": "tentang",
+        "entity": "program rental Mobis"
+      }
+    },
+    {
+      "id": "tentang10",
+      "text": "1. Pendaftaran program sewa mobil khusus driver online dapat dilakukan melalui website global-mobility-service.co.id/mobis.\n\n2. Menyiapkan seluruh dokumen yang dibutuhkan sebagai persyaratan.\n\n3. Tim Mobis akan melakukan survey ke rumah Anda.\n\n4. Tim Mobis akan menentukan hasil persetujuan sewa.\n\n5. Serah terima unit mobil.",
+      "metadata": {
+        "category": "tentang",
+        "entity": "Alur pendaftaran Mobis"
+      }
+    }
+  ]
+  

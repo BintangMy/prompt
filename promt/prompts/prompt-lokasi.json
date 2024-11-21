@@ -1,0 +1,43 @@
+[
+    {
+      "id": "lokasi1",
+      "text": "Alamat kantor GMS adalah di Summitmas I Lantai 2, Jl. Jenderal Sudirman No.Kav. 61-62, RT.5/RW.3, Senayan, Kec. Kebayoran Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190.",
+      "metadata": {
+        "category": "lokasi",
+        "entity": "kantor GMS"
+      }
+    },
+    {
+      "id": "lokasi2",
+      "text": "Lokasi kantor Mobis meliputi: Head Office di Summitmas I Lantai 2, Jl. Jenderal Sudirman No.Kav. 61-62, RT.5/RW.3, Senayan, Kec. Kebayoran Baru, Jakarta Selatan, Jakarta 12190. Bekasi Office di Jl. Raya Kranggan No.26, RT.008/RW.008, Jatiraden, Jatisampurna, Kota Bekasi, Jawa Barat 17432. Karawaci Office di Jl. Raya Legok - Karawaci No.8, RT.2/RW.4, Kelapa Dua, Kabupaten Tangerang, Banten 15810. Bogor Office di Jl. Alternatif Jl. Tugu Wates, RT.02/RW.13, Kedungbadak, Tanah Sereal, Kota Bogor, Jawa Barat 16164. Pondok Cabe Office di Ruko City Point Pondok Cabe Kav. 75, Blok C-2 No. 09, Jl. Pondok Cabe Raya, Pondok Cabe Udik, Pamulang, Tangerang Selatan, Banten 15419.",
+      "metadata": {
+        "category": "lokasi",
+        "entity": "kantor Mobis"
+      }
+    },
+    {
+      "id": "lokasi3",
+      "text": "Lokasi pool di Bekasi terletak di Jl. Raya Kranggan No.26, RT.008/RW.008, Jatiraden, Kec. Jatisampurna, Kota Bekasi, Jawa Barat 17432.",
+      "metadata": {
+        "category": "lokasi",
+        "entity": "pool Bekasi"
+      }
+    },
+    {
+      "id": "lokasi4",
+      "text": "Lokasi pool di Tangerang terletak di Jl. Raya Legok - Karawaci No.8, RT.2/RW.4, Kelapa Dua, Kabupaten Tangerang, Banten 15810.",
+      "metadata": {
+        "category": "lokasi",
+        "entity": "pool Tangerang"
+      }
+    },
+    {
+      "id": "lokasi5",
+      "text": "Lokasi pool di Bogor terletak di Jl. Alternatif Jl. Tugu Wates, RT.02/RW.13, Kedungbadak, Tanah Sereal, Kota Bogor, Jawa Barat 16164.",
+      "metadata": {
+        "category": "lokasi",
+        "entity": "pool Bogor"
+      }
+    }
+  ]
+  

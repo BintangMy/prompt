@@ -1,0 +1,83 @@
+[
+    {
+      "id": "akun_online1",
+      "text": "GMS dapat membantu membuatkan akun untuk driver yang belum pernah membuat akun motor atau mobil.",
+      "metadata": {
+        "category": "akun online",
+        "entity": "akun baru"
+      }
+    },
+    {
+      "id": "akun_online2",
+      "text": "Jika sudah memiliki akun, GMS tidak dapat membantu pengaktifan ulang. Driver perlu melakukan mutasi akun motor ke akun mobil atau membuat akun baru.",
+      "metadata": {
+        "category": "akun online",
+        "entity": "akun yang sudah ada"
+      }
+    },
+    {
+      "id": "akun_online3",
+      "text": "Saat ini GMS sedang bekerjasama dengan pihak Gocar dengan program Gohemat, yang bisa kita buatkan jika belum pernah buat akun Gocar. Jika sudah pernah buat akun motor, harus mutasi ke akun mobil, baru bisa kita bantu proses Gohematnya.",
+      "metadata": {
+        "category": "akun online",
+        "entity": "akun Gocar"
+      }
+    },
+    {
+      "id": "akun_online4",
+      "text": "Bisa Pak, kebetulan kita sedang kerja sama dengan Go Car untuk pembuatan Akunnya, tidak berlaku bagi yang sudah pernah Mendaftar, Suspen, dan Blacklist.",
+      "metadata": {
+        "category": "akun online",
+        "entity": "akun GoCar"
+      }
+    },
+    {
+      "id": "akun_online5",
+      "text": "GRAB, GOJEK, MAXIM, INDRIVE, LALAMOVE, DLL Sebutkan.... TIDAK ADA.",
+      "metadata": {
+        "category": "akun online",
+        "entity": "platform akun"
+      }
+    },
+    {
+      "id": "akun_online6",
+      "text": "GMS adalah perusahaan rental mobil yang saat ini bekerja sama dengan Gocar dalam program Gocar Hemat. Kami dapat membantu Anda membangun akun Gocar hemat dengan syarat dan ketentuan yang harus dipenuhi.",
+      "metadata": {
+        "category": "akun online",
+        "entity": "akun Gocar"
+      }
+    },
+    {
+      "id": "akun_online7",
+      "text": "GMS dapat membantu membuatkan akun untuk driver yang belum pernah membuat akun motor atau mobil.",
+      "metadata": {
+        "category": "akun online",
+        "entity": "akun baru"
+      }
+    },
+    {
+      "id": "akun_online8",
+      "text": "GMS dapat membantu membuatkan akun untuk driver yang belum pernah membuat akun motor atau mobil.",
+      "metadata": {
+        "category": "akun online",
+        "entity": "akun baru"
+      }
+    },
+    {
+      "id": "akun_online9",
+      "text": "Bisa Pak, kebetulan kita sedang kerja sama dengan Go Car untuk pembuatan Akunnya, tidak berlaku bagi yang sudah pernah Mendaftar, Suspen, dan Blacklist.",
+      "metadata": {
+        "category": "akun online",
+        "entity": "akun GoCar"
+      }
+    },
+    {
+      "id": "akun_online10",
+      "text": "GMS dapat membantu membuatkan akun untuk driver yang belum pernah membuat akun motor atau mobil.",
+      "metadata": {
+        "category": "akun online",
+        "entity": "akun baru"
+      }
+    }
+  ]
+  

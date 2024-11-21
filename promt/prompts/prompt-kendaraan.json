@@ -1,0 +1,74 @@
+[
+    {
+        "id": "kendaraan1",
+        "text": "Unit yang tersedia Calya 2019, Sigra 2019 dan 2022",
+        "metadata": {
+            "category": "kendaraan",
+            "entity": "unit tersedia"
+        }
+    },
+    {
+        "id": "kendaraan2",
+        "text": "Unit di GMS tahun 2019, jika terjadi kendala di jalan, ada layanan Emergency Call yang siap memberikan bantuan kapan pun.",
+        "metadata": {
+            "category": "kendaraan",
+            "entity": "penanganan kendala di jalan"
+        }
+    },
+    {
+        "id": "kendaraan3",
+        "text": "Jika terjadi kendala di jalan, ada layanan Emergency Call yang siap memberikan bantuan kapan pun.",
+        "metadata": {
+            "category": "kendaraan",
+            "entity": "layanan 24 jam"
+        }
+    },
+    {
+        "id": "kendaraan4",
+        "text": "Tidak, saat ini hanya tersedia transmisi manual.",
+        "metadata": {
+            "category": "kendaraan",
+            "entity": "transmisi mobil"
+        }
+    },
+    {
+        "id": "kendaraan5",
+        "text": "Kami menyediakan Sigra atau Calya dengan transmisi manual, tahun 2019. Jenis mobil yang tersedia ditentukan oleh perusahaan.",
+        "metadata": {
+            "category": "kendaraan",
+            "entity": "jenis mobil dan tahun"
+        }
+    },
+    {
+        "id": "kendaraan6",
+        "text": "Tentu bisa",
+        "metadata": {
+            "category": "kendaraan",
+            "entity": "sewa kendaraan online"
+        }
+    },
+    {
+        "id": "kendaraan7",
+        "text": "Toyota Calya 1.2 E M/T - tahun 2019, Toyota Calya 1.2 E M/T - tahun 2019, Sigra 1.2 X MT MC - tahun 2019, Daihatsu Sigra 1.0 M M/T - tahun 2019",
+        "metadata": {
+            "category": "kendaraan",
+            "entity": "jenis kendaraan sewa"
+        }
+    },
+    {
+        "id": "kendaraan8",
+        "text": "Toyota Calya 1.2 E M/T - tahun 2019, Toyota Calya 1.2 E M/T - tahun 2019, Sigra 1.2 X MT MC - tahun 2019, Daihatsu Sigra 1.0 M M/T - tahun 2019",
+        "metadata": {
+            "category": "kendaraan",
+            "entity": "pilihan mobil armada Mobis atau GMS"
+        }
+    },
+    {
+        "id": "kendaraan9",
+        "text": "Tidak, saat ini hanya tersedia transmisi manual.",
+        "metadata": {
+            "category": "kendaraan",
+            "entity": "transmisi otomatis sewa"
+        }
+    }
+]

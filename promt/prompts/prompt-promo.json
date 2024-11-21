@@ -1,0 +1,27 @@
+[
+    {
+      "id": "promo1",
+      "text": "Program kepemilikan, di berikan kepada driver yang sudah join lebih dari 6 bulan, dan sesuai penilaian management akan di tawarkan program kepemilikan.",
+      "metadata": {
+        "category": "promo",
+        "entity": "program kepemilikan"
+      }
+    },
+    {
+      "id": "promo2",
+      "text": "Program kepemilikan, di berikan kepada driver yang sudah join lebih dari 6 bulan, dan sesuai penilaian management akan di tawarkan program kepemilikan.",
+      "metadata": {
+        "category": "promo",
+        "entity": "program kepemilikan"
+      }
+    },
+    {
+      "id": "promo3",
+      "text": "Mohon maaf saat ini belum tersedia.",
+      "metadata": {
+        "category": "promo",
+        "entity": "bahan bakar"
+      }
+    }
+  ]
+  

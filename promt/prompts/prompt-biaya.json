@@ -1,0 +1,139 @@
+[
+    {
+      "id": "biaya1",
+      "text": "Biaya setoran bersifat mingguan, dan untuk biayanya sebesar Rp980.000. Ada juga unit berstiker dengan setoran mingguan Rp870.000.",
+      "metadata": {
+        "category": "biaya",
+        "entity": "setoran"
+      }
+    },
+    {
+      "id": "biaya2",
+      "text": "Biaya setoran bersifat mingguan, tidak ada setoran harian.",
+      "metadata": {
+        "category": "biaya",
+        "entity": "jenis setoran"
+      }
+    },
+    {
+      "id": "biaya3",
+      "text": "Tidak ada deposit di GMS. Namun, terdapat biaya pendaftaran sebesar Rp300.000 (promo dari Rp500.000).",
+      "metadata": {
+        "category": "biaya",
+        "entity": "pendaftaran"
+      }
+    },
+    {
+      "id": "biaya4",
+      "text": "Biaya pendaftaran tidak dikembalikan karena bukan merupakan deposit atau jaminan.",
+      "metadata": {
+        "category": "biaya",
+        "entity": "pendaftaran"
+      }
+    },
+    {
+      "id": "biaya5",
+      "text": "Tidak, biaya pendaftaran dibayarkan sebelum survei, dan petugas akan memberikan nomor rekening perusahaan untuk transfer.",
+      "metadata": {
+        "category": "biaya",
+        "entity": "biaya survei"
+      }
+    },
+    {
+      "id": "biaya6",
+      "text": "Sesuai prosedur belum bisa pak, karena sistem pembayaran di awal. Jika bapak sudah siap dananya, bisa hubungi saya lagi tanpa perlu mengisi link pendaftaran lagi.",
+      "metadata": {
+        "category": "prosedur",
+        "entity": "sistem cicilan"
+      }
+    },
+    {
+      "id": "biaya7",
+      "text": "Dokumen Anda sedang dicek oleh tim kami.",
+      "metadata": {
+        "category": "status",
+        "entity": "pengecekan dokumen"
+      }
+    },
+    {
+      "id": "biaya8",
+      "text": "Jika ada jadwal survey, tim akan menghubungi Anda untuk mengatur jadwal survey atau janji temu.",
+      "metadata": {
+        "category": "jadwal",
+        "entity": "kapan saya akan di survei"
+      }
+    },
+    {
+      "id": "biaya9",
+      "text": "Toyota Calya 1.2 E M/T - tahun 2019 : Rp 980.000/minggu Toyota Calya 1.2 E M/T - tahun 2019 : Rp 980.000/minggu Sigra 1.2 X MT MC - tahun 2019 : Rp 1.000.000/minggu Daihatsu Sigra 1.0 M M/T - tahun 2019 : Rp 870.000/minggu *Harga berlaku sampai Desember 2024",
+      "metadata": {
+        "category": "biaya",
+        "entity": "harga sewa berdasarkan type"
+      }
+    },
+    {
+      "id": "biaya10",
+      "text": "Saat ini, pembayaran rental mobil dilakukan mingguan dan dibayar di muka sebelum digunakan.",
+      "metadata": {
+        "category": "biaya",
+        "entity": "pembayaran rental mobil"
+      }
+    },
+    {
+      "id": "biaya11",
+      "text": "Bisa, dengan biaya tambahan Rp250.000, Anda dapat membuat akun (GRAB, GOJEK, MAXIM, INDRIVE).",
+      "metadata": {
+        "category": "biaya",
+        "entity": "pembuatan akun"
+      }
+    },
+    {
+      "id": "biaya12",
+      "text": "Biaya setoran bersifat mingguan, dan untuk biayanya sebesar Rp980.000. Ada juga unit berstiker dengan setoran mingguan Rp870.000.",
+      "metadata": {
+        "category": "biaya",
+        "entity": "setoran penyewa"
+      }
+    },
+    {
+      "id": "biaya13",
+      "text": "Tidak, biaya pendaftaran tidak dikembalikan karena bukan merupakan deposit atau jaminan.",
+      "metadata": {
+        "category": "biaya",
+        "entity": "pengembalian biaya"
+      }
+    },
+    {
+      "id": "biaya14",
+      "text": "Sebelum melakukan survei, pembayaran biaya pendaftaran 50%. Petugas akan memberikan nomor rekening perusahaan. Pembayaran dilakukan melalui transfer dan tidak diperbolehkan dalam bentuk tunai atau ke rekening pribadi.",
+      "metadata": {
+        "category": "biaya",
+        "entity": "pembayaran survei"
+      }
+    },
+    {
+      "id": "biaya15",
+      "text": "Biaya normal 140rb/hari atau 980rb/minggu. Tidak ada skema khusus.",
+      "metadata": {
+        "category": "biaya",
+        "entity": "setoran penyewa"
+      }
+    },
+    {
+      "id": "biaya16",
+      "text": "Tidak ada suku bunga, pembayaran harus lunas sebelum masuk jatuh tempo berikutnya.",
+      "metadata": {
+        "category": "biaya",
+        "entity": "pembayaran cicilan"
+      }
+    },
+    {
+      "id": "biaya17",
+      "text": "Biaya setoran bersifat mingguan, tidak ada setoran bulanan ataupun tidak ada setoran harian.",
+      "metadata": {
+        "category": "biaya",
+        "entity": "jenis setoran"
+      }
+    }
+  ]
+  

@@ -1,0 +1,226 @@
+[
+    {
+        "id": "persyaratan1",
+        "text": "Saat ini, GMS hanya memproses pendaftaran untuk KTP wilayah Pulau Jawa.",
+        "metadata": {
+          "category": "persyaratan",
+          "entity": "KTP luar daerah"
+        }
+      },  
+
+        {
+          "id": "persyaratan2",
+          "text": "Bisa pak, asalkan sudah menempati kontrakannya, minimal selama 6 bulan, dan ada bukti pembayaran kontrakan yang ditandatangani yang punya kontrakan.",
+          "metadata": {
+            "category": "persyaratan",
+            "entity": "rumah kontrakan"
+          }
+        },
+        {
+          "id": "persyaratan3",
+          "text": "Mohon maaf, saat ini jika domisili di kosan atau apartemen, kami belum bisa memproses pendaftaran Anda.",
+          "metadata": {
+            "category": "persyaratan",
+            "entity": "domisili kosan atau apartemen"
+          }
+        },
+        {
+          "id": "persyaratan4",
+          "text": "Bisa pak, asalkan ada KK asli istri dan surat nikah. Jika nanti bapak lolos survey dan join, istrinya bersedia menjaminkan dokumen asli salah satu KK asli atau KTP asli. Karena beda KK, harus ada 2 dokumen asli yang dijaminkan.",
+          "metadata": {
+            "category": "persyaratan",
+            "entity": "KK istri dan surat nikah"
+          }
+        },
+        {
+          "id": "persyaratan5",
+          "text": "Bisa, Anda perlu membuat surat domisili dari RT setempat sebagai bukti tempat tinggal.",
+          "metadata": {
+            "category": "persyaratan",
+            "entity": "surat domisili"
+          }
+        },
+        {
+          "id": "persyaratan6",
+          "text": "Harus ada penjamin yang satu rumah, dan bersedia menjaminkan salah satu dokumen asli, yang bisa jadi penjamin orang tua kandung maksimal usia 60 tahun, atau saudara kandung yang sudah bekerja.",
+          "metadata": {
+            "category": "persyaratan",
+            "entity": "penjamin"
+          }
+        },
+        {
+            "id": "persyaratan7",
+            "text": "Penjamin harus bersedia menjaminkan salah satu dokumen asli, yang bisa jadi penjamin adalah orang tua atau keluarga dengan maksimal usia 60 tahun, atau saudara kandung yang sudah bekerja.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "penjamin tidak bersedia"
+            }
+          },
+          {
+            "id": "persyaratan8",
+            "text": "Tidak perlu datang ke pool untuk proses awal. Untuk kemudahan, dokumen asli dapat dikirimkan dalam bentuk foto yang jelas dan terbaca ke nomor WA yang telah disediakan, untuk verifikasi lebih lanjut.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "proses verifikasi dokumen"
+            }
+          },
+          {
+            "id": "persyaratan9",
+            "text": "Estimasi proses adalah 7 hari kerja setelah dokumen lengkap diterima.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "waktu proses"
+            }
+          },
+          {
+            "id": "persyaratan10",
+            "text": "Untuk proses rejoin, bapak bisa hubungi PIC bapak, yang waktu itu bapak info setoran, nanti akan diarahkan untuk prosesnya.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "proses rejoin"
+            }
+          },
+          {
+            "id": "persyaratan11",
+            "text": "Bisa, dengan catatan tinggal bersama keluarga inti dan ngontrak lebih dari 6 bulan.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "domisili ngontrak"
+            }
+          },
+          {
+            "id": "persyaratan12",
+            "text": "Saat ini, GMS hanya memproses pendaftaran untuk KTP wilayah Pulau Jawa.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "KTP daerah"
+            }
+          },
+          {
+            "id": "persyaratan13",
+            "text": "Selamat Pagi Bapak/ibu terkait syarat dan ketentuan untuk pendaftaran Rental driver MPV, Berikut adalah rangkumannya:\n\n1. KTP Pribadi asli\n2. KTP Penjamin asli\n3. SIM yang masih berlaku\n4. Kartu Keluarga Terupdate\n5. Bukti Kepemilikan Rumah PBB/Akta Rumah/Rekening Listrik (Milik Sendiri/orangtua)\n6. Domisili dari RT setempat (Pendukung jika rumah kontrak/Rumah Saudara)\n7. Share Lokasi tempat tinggal\n8. SKCK (Jika KTP diluar JABODETABEK, Hanya Pulau Jawa)\n9. Min umur 21th sampai 59th, 60th dilampirkan surat dokter\n10. yang diperbolehkan sebagai penjamin :\n    1. Orang tua kandung\n    2. Istri Sah secara hukum & agama\n    3. Anak Kandung (Minimal berumur 18th & Bekerja kontrak, tidak untuk pekerja harian)\n    4. Saudara sedarah (Paman/Bibi/sepupu Sedarah)\n11. Penjamin wajib ada dalam 1 kartu keluarga, atau 1 rumah tinggal (Sedarah)\n12. Document yang di ijinkan sebagai jaminan : KTP pribadi/Istri, Kartu keluarga, Akta Lahir. (asli)\n13. Jika Penjamin tidak dalam satu kartu keluarga, maka wajib menjaminkan 2 document jaminan (Kk/KTP asli)\n14. Lama tinggal Minimal 6Bulan untuk KTP JABODETABEK\n15. KTP Luar JABODETABEK Minimal tinggal 1th (Wajib Domisili).\n16. Applicant tidak berdomisili di Apartement, Ruko, dan Rusun.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "persyaratan lengkap"
+            }
+          },
+          {
+            "id": "persyaratan14",
+            "text": "Ini adalah mobil rental dan bukan untuk dijual kepemilikannya. Jika ini adalah kerja sama rental mobil, maka berjalan dengan baik.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "kepemilikan mobil"
+            }
+          },
+          {
+            "id": "persyaratan15",
+            "text": "Saat ini, biaya pendaftaran untuk rejoin tetap berlaku.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "biaya rejoin"
+            }
+          },
+          {
+            "id": "persyaratan16",
+            "text": "Ketentuannya adalah jika penjamin tidak tercantum di Kartu Keluarga, maka KTP penjamin harus dijamin.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "KTP penjamin berbeda dengan KK"
+            }
+          },
+          {
+            "id": "persyaratan17",
+            "text": "Saat ini, jika KTP Anda di luar Jabodetabek dan domisili Anda di luar Jabodetabek, kami belum bisa menerima pendaftaran.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "KTP dan domisili luar Jabodetabek"
+            }
+          },
+          {
+            "id": "persyaratan18",
+            "text": "Seperti yang sudah dijelaskan, jika alamat rumah berbeda dengan alamat di KTP, wajib membuat surat domisili ke RT setempat.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "alamat berbeda dengan KTP"
+            }
+          },
+          {
+            "id": "persyaratan19",
+            "text": "Saat ini, GMS hanya memproses pendaftaran untuk KTP wilayah Pulau Jawa.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "KTP luar kota"
+            }
+          },
+          {
+            "id": "persyaratan20",
+            "text": "Seperti yang sudah dijelaskan, jika alamat rumah berbeda dengan alamat di KTP, wajib membuat surat domisili ke RT setempat.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "alamat berbeda dengan KTP"
+            }
+          },{
+            "id": "persyaratan21",
+            "text": "Harus ada penjamin yang satu rumah, dan bersedia menjaminkan salah satu dokumen asli, yang bisa jadi penjamin orang tua kandung maksimal usia 60 thn, atau saudara kandung yang sudah bekerja.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "belum berkeluarga"
+            }
+          },
+          {
+            "id": "persyaratan22",
+            "text": "Penjamin harus bersedia menjaminkan salah satu dokumen asli, yang bisa jadi penjamin adalah orang tua atau keluarga dengan maksimal usia 60 tahun, atau saudara kandung yang sudah bekerja.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "penjamin tidak bersedia menyerahkan dokumen"
+            }
+          },
+          {
+            "id": "persyaratan23",
+            "text": "Jika ada jadwal survey, tim akan menghubungi Anda untuk mengatur jadwal survey atau janji temu.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "alternatif survei"
+            }
+          },
+          {
+            "id": "persyaratan24",
+            "text": "Estimasi proses adalah 7 hari kerja setelah dokumen lengkap diterima.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "waktu pendaftaran hingga penggunaan mobil"
+            }
+          },
+          {
+            "id": "persyaratan25",
+            "text": "Estimasi proses adalah 7 hari kerja setelah dokumen lengkap diterima.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "waktu tunggu survei"
+            }
+          },
+          {
+            "id": "persyaratan26",
+            "text": "Mohon maaf, saat ini jika domisili di kosan atau apartemen, kami belum bisa memproses pendaftaran Anda.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "domisili kosan atau apartemen"
+            }
+          },
+          {
+            "id": "persyaratan27",
+            "text": "Seperti yang sudah dijelaskan, jika alamat rumah berbeda dengan alamat di KTP, wajib membuat surat domisili ke RT setempat.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "KTP berbeda alamat"
+            }
+          },
+          {
+            "id": "persyaratan28",
+            "text": "GMS menetapkan persyaratan usia bagi driver yang ingin menyewa kendaraan, yaitu minimal 21 tahun dan maksimal 60 tahun. Batasan ini ditentukan untuk memastikan keselamatan dan kelayakan driver selama menggunakan layanan kami.",
+            "metadata": {
+              "category": "persyaratan",
+              "entity": "usia driver"
+            }
+          }
+]
